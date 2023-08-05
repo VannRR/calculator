@@ -1,0 +1,10 @@
+textview {
+  font-size: 20px;
+  padding: 10px;
+}
+
+button {
+  font-size: 20px;
+  font-family: monospace;
+  padding-top: 10px;
+}
