@@ -17,7 +17,7 @@ The logic module is heavily commented and could potentially serve as a helpful r
 ## Download
 
 You can download the latest linux x86_64 release of the calculator from the [releases page](https://github.com/vannrr/calculator/releases).
-Note you also need to install the your distributions `gtk4` package to run the binary.
+Note you also need to install your distributions `gtk4` package to run the binary.
 
 ## Build
 
