@@ -17,7 +17,7 @@ The logic module is heavily commented and could potentially serve as a helpful r
 ## Screenshot
 
 <p align="center">
-    <img width="450" src="https://raw.githubusercontent.com/vannrr/calculator/main/screenshot.png" alt="screenshot of calculator">
+    <img width="315" src="https://raw.githubusercontent.com/vannrr/calculator/main/screenshot.png" alt="screenshot of calculator">
 </p>
 
 ## Download
