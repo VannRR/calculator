@@ -14,6 +14,12 @@ libraries that feel familiar to those with experience in browser-based JavaScrip
 
 The logic module is heavily commented and could potentially serve as a helpful reference for understanding binary mathematical operations and mathematical equation parsing.
 
+## Screenshot
+
+<p align="center">
+    <img width="450" src="https://raw.githubusercontent.com/vannrr/calculator/main/screenshot.png" alt="screenshot of calculator">
+</p>
+
 ## Download
 
 You can download the latest linux x86_64 release of the calculator from the [releases page](https://github.com/vannrr/calculator/releases).
