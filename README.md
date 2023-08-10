@@ -1,6 +1,6 @@
 # Calculator
 
-This is a simple integer calculator written in Rust, that uses bitwise logic and the shunting yard algorithm.
+A simple integer calculator written in Rust, that uses bitwise logic and the shunting yard algorithm. 
 
 ## Overview
 
